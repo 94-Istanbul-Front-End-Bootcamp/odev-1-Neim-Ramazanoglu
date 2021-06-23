@@ -1,5 +1,6 @@
-document.getElementById('nameSurname')
-console.log(nameSurname.innerHTML = "Neim Ramazanoğlu")
+document.getElementById('firstName'),document.getElementById('surname')
+console.log(firstName.innerHTML = "Neim", surname.innerHTML = "Ramazanoğlu")
+
 
 document.getElementById('age')
 console.log(age.innerHTML = "27")
