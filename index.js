@@ -1,5 +1,8 @@
+let name1 = "Neim"
+let surname1 = "Ramazanoğlu"
+
 document.getElementById('firstName'),document.getElementById('surname')
-console.log(firstName.innerHTML = "Neim", surname.innerHTML = "Ramazanoğlu")
+console.log(firstName.innerHTML = name1, surname.innerHTML = surname1)
 
 
 document.getElementById('age')
