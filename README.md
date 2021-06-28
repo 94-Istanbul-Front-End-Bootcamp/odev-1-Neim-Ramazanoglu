@@ -1,3 +1,16 @@
+# Odev-1 
+
+Bootcamp eğitmenimizin istedikleri aşağıda listelenmiş halde bulunuyor, ben kendi projemin ekran görüntülerini buraya bırakıyorum.
+
+# Butona tıklamadan önce
+
+![alt text](/finalcommit-1.JPG)
+
+# Butona tıkladıktan sonra 
+
+![alt text](/finalcommit-2.JPG)
+
+
 # odev-hafta-1
 
 Github ve Linkedin profillerinizine ulaşabileceğimiz bir web sayfası geliştirmeniz bekleniyor.
